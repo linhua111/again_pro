@@ -3,3 +3,10 @@ linhua 123
 git add 
 git commit -m
 git branch 
+
+---------1.0-------
+
+git log
+git branch
+git checkout 
+git tag
